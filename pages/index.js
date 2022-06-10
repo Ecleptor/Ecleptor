@@ -1,3 +1,3 @@
 export default function Home() {
-  return <p>Landing</p>;
+  return <p>CATALIN</p>;
 }
